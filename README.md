@@ -22,8 +22,8 @@ Document intelligence system using retrieval-augmented generation.
 **Fraud Detection**
 Machine learning solution for identifying potentially fraudulent transactions.
 
-**Sales Route Optimization**
-Optimization system for customer assignment and sales route planning.
+**NDA Analyzer with AI**
+AI scoring the clause.
 
 **Kafka Disk Imbalance Prediction**
 Predictive analytics for monitoring Kafka infrastructure.
